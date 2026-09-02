@@ -180,6 +180,9 @@ The site publishes to GitHub Pages from `main` via `.github/workflows/deploy.yml
 `upload-pages-artifact` on `public/`. Pushing to `main` is the whole deploy
 step; there is nothing to run locally first.
 
+Because a push is a deploy, do not commit or push while iterating. Work
+locally against `./dev.sh` and let the user decide when to publish.
+
 Live at https://mroberts1.github.io/lang-media-arts/
 
 CI resolves node from `.quartz/.node-version` via `setup-node`, which installs
@@ -203,3 +206,19 @@ one plugin ships a 59MB binary. The site build never reads it. `.smart-env/`
 Update this file when a change invalidates something above, or when a new
 non-obvious behaviour costs time to diagnose. Record the symptom alongside the
 cause.
+
+## Plugins installed from git
+
+`quartz-image-zoom` (lightbox on click) is installed from
+`github:vazome/quartz-image-zoom`, pinned in `.quartz/quartz.lock.json`.
+
+Install with the bootstrap CLI, not npx:
+`node ./quartz/bootstrap-cli.mjs plugin add github:<owner>/<repo>` from
+`.quartz/`.
+
+Git plugins install to `.quartz/.quartz/plugins/`, not `.quartz/plugins/`. The
+loader joins `process.cwd()` with `.quartz/plugins` and the CLI already runs
+from `.quartz/`, so the path doubles up. That directory is gitignored as a
+cache, and `bootstrap-cli.mjs build` does not fetch missing plugins, so CI runs
+`npm run install-plugins` before building. Dropping that step yields a green
+build with the plugin silently missing.

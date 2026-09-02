@@ -13,7 +13,7 @@
 - Supernatural - Personal Shopper (as vlog)
 - Weird/Eerie - Shining, Caretaker videos etc.) - liminality
 - Aesthetics - Intensities (Obsession)
-- YOLO: AI visuals - Hatis Noit video, Chien51
+- YOLO: AI visuals - Hatis Noit video, Chien 51
 - Digital Cinema - Perceptual Realism - GRAVITY
 - Slow Cinema - return to realism - STILL LIGHT (Reygadas)
 - Live Cinema (soundtracks - Light Surgeons, Dungen)

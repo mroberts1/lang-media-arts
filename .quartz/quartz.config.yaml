@@ -99,12 +99,6 @@ plugins:
   - source: "@quartz-community/roam"
     enabled: false
     order: 92
-  # These must be repeated here, not just under theme.typography above. With no
-  # theme enabled there is no font registry to read, so the plugin falls back to
-  # Quartz's defaults (Schibsted Grotesk / Source Sans Pro) and emits them as
-  # unlayered CSS, which outranks the layered values from theme.typography.
-  # Departure Mono is not on Google Fonts; it is skipped there and resolved by
-  # the self-hosted @font-face in quartz/styles/custom.scss.
   - source: "@quartz-community/quartz-fonts"
     enabled: true
     options:
@@ -132,8 +126,6 @@ plugins:
     enabled: true
   - source: "@quartz-community/og-image"
     enabled: true
-  # Disabled: writes public/CNAME from baseUrl, and any CNAME file makes Pages
-  # try to serve a custom domain, which fails on a github.io subpath.
   - source: "@quartz-community/cname"
     enabled: false
   - source: "@quartz-community/canvas-page"
@@ -276,6 +268,10 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+  - source: github:vazome/quartz-image-zoom
+    enabled: true
+    options: {}
+    order: 50
 layout:
   groups:
     toolbar:
