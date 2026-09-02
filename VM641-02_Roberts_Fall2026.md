@@ -10,6 +10,7 @@ term: Fall 2026
 > [!custom]VM641-02  
 > Language of Media Arts  
 > Dr. Martin Roberts  
+> [Film & Media Art MFA](https://emerson.edu/programs/film-and-media-art-2/)  
 > [Emerson College](https://emerson.edu)  
 > Fall 2026  
 > 
