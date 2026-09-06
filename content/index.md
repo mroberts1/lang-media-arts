@@ -5,9 +5,9 @@ institution: Emerson College
 term: Fall 2026
 ---
 
-![[img/cindy-sherman.jpg]]
+![[sirat.png]]
 
-Image: Cindy Sherman, *Untitled Film Stills* (1977-1980)
+Image: [*Sirāt*](https://letterboxd.com/film/sirat-2025/) (Ólive Laxe, 2025)
 
 > [!custom]VM641-02
 > Language of Media Arts\
