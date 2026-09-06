@@ -5,7 +5,7 @@ institution: Emerson College
 term: Fall 2026
 ---
 
-![[img/movts-image.jpeg]]
+![[public/img/movts-image.jpeg]]
 
 > [!custom]VM641-02  
 > Language of Media Arts  
