@@ -49,13 +49,10 @@ Light mode is deliberately flat: every text tone is the same `#4e4e4e` against
 a `#e2e2e2` ground, with the mint `#c0ffe1` reserved for link hovers and
 selection.
 
-Type is Departure Mono for headers, Roboto Mono for body, Ubuntu Mono for code.
-Departure Mono is not on Google Fonts, so it is self-hosted from
-`.quartz/quartz/static/fonts/`. Quartz still asks Google for it and logs
-`Failed to fetch font Departure Mono with weight 700` on every build. That
-warning is expected and harmless, the `@font-face` in
-`.quartz/quartz/styles/custom.scss` is what actually loads the font. The real
-Plastic Labs site has the same quirk.
+Type is Helvetica Neue throughout, matching the other course vaults and the
+personal site. It is a system face rather than a webfont, so `fontOrigin` is
+`local` and nothing is fetched at build time; the fallback stack for machines
+without it lives in `.quartz/quartz/styles/custom.scss`.
 
 Everything the YAML config can't express lives in that `custom.scss`: the
 self-hosted font, a tighter heading scale, wrapped code blocks, a card grid for
