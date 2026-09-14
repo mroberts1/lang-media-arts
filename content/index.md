@@ -100,24 +100,36 @@ M, Sept. 7: NO CLASS: Labor Day
 
 W, Sept. 9 
 
-**Feminist Masquerades & Postmodernist Pastiche**
-  
-- In-class: *Inventing Anna*, ep. 6
-- Film: *El Planeta*
+**Soviet Montage**
 
+Clip: *Man With a Movie Camera* (Dziga Vertov, 1929). Soundtrack by The Cinematic Orchestra.
+
+- Ed Sikov, "[Editing: From Shot to Shot](pdf/sikov-montage.pdf)" (in *Film Studies: An Introduction*), ch. 4
 ### Week 3
 
-**The Movement-Image: Cars**
+**Montage Reloaded**
 
 M, Sept. 14
+
+- Julia Vassilieva, "[Introduction: Montage Reloaded](https://intransition.openlibhums.org/article/id/11406/)" - Special Issue of *\[in\]Transition* 6:4 (2019)
+- Adrian Martin and Cristina Álvarez-López, "[The Idea of a Series: Energy Vectors in Montage](https://intransition.openlibhums.org/article/id/11285/)"
+- Karen Pearlman, "[After the Facts](https://intransition.openlibhums.org/article/id/11365/)"
+- "[Cut/Generate: Montage and AI](https://calenda.org/1217419?lang=en)" (conference held in Paris, 24-26 April 2025)
+
+Screenings: 
+
+- *Timecode* (Mike Figgis, 2000)
+- *Pretend* (Julie Talen, 2003)
+
+W, Sept. 16: Add/Drop Deadline
+
+**The Movement-Image: Cars**
 
 Films: *Le Casse*\
 *Baby Driver*\
 *Taste of Cherry*, *Ten*\
 *One Battle After Another*\
 *Perfect Days*
-
-W, Sept. 16: Add/Drop Deadline
 
 Sequence Analysis 1 (2-3 sequences per class)
 
