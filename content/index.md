@@ -7,7 +7,7 @@ term: Fall 2026
 
 ![[sirat.png]]
 
-Image: [*Sirāt*](https://letterboxd.com/film/sirat-2025/) (Ólive Laxe, 2025)
+Image: [*Sirāt*](https://letterboxd.com/film/sirat-2025/) (Óliver Laxe, 2025)
 
 > [!custom]VM641-02
 > Language of Media Arts\
@@ -52,8 +52,6 @@ Note on formats: A number of texts listed in the [Bibliography](bibliography.qmd
 
 ## Assignments & Evaluation
 
-Prompts for all assignments will be distributed well in advance of due dates. Apart from weekly posts (to be submitted as text entries on Canvas), written assignments should be formatted in (rather than converted to) Microsoft Word and submitted by uploading in .doc/.docx format in the Assignments section of our Canvas site.
-
 **Sequence Analysis** (2 x 15%)
 
 - Opening, closing, or mid-sequence screening and analysis. Solo or joint
@@ -74,7 +72,7 @@ Prompts for all assignments will be distributed well in advance of due dates. Ap
 
 - Minimum 10 posts in Discussion forums on Canvas required over the semester
 - No fixed length but up to 250 words commenting either on reading or screening assignments for the week
-- Due weekly before Tuesday class
+- Due weekly before Wednesday class
 - You may post late up to the end of the week in question. However, please note that you cannot post make-up comments after that week is over
 
 **Engagement** (15%): includes punctuality, active participation in class discussion, individual conferences
