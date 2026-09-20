@@ -292,6 +292,15 @@ article h6 > a {
   text-decoration: none;
 }
 
+// Video embeds. The YouTube embed from ![](watch URL) is a fixed 600px wide,
+// and a pasted Vimeo iframe defaults to 300x150. Fill the column and keep 16:9.
+article iframe[src*="youtube.com"],
+article iframe[src*="player.vimeo.com"] {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
 // Print. Syllabi get handed out as PDFs, printed from the built page so they
 // keep the site's fonts, callouts and colours. Generate with ./script/pdf.
 @media print {

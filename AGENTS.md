@@ -126,8 +126,10 @@ YouTube. An image embed pointed at a watch URL becomes an iframe:
 ![](https://www.youtube.com/watch?v=VIDEO_ID)
 ```
 
-The iframe is a fixed `width="600px"` with no aspect-ratio rule, so it does not
-scale on narrow screens. No responsive CSS exists for it yet in any vault here.
+The iframe is a fixed `width="600px"`. Vimeo has no Markdown embed; paste the
+player iframe (`https://player.vimeo.com/video/VIDEO_ID`) as raw HTML, which
+the build passes through. A rule in `custom.scss` makes both fill the column
+at 16:9 on any screen width.
 
 ## Configuration
 
