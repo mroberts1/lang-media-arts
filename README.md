@@ -32,22 +32,22 @@ anything, are in [AGENTS.md](AGENTS.md).
 
 ## The theme
 
-Colours and fonts come from the real Plastic Labs stylesheet, which is itself a
-Quartz site, so the mapping is one to one.
+Colours come from the letterpress (light) and cyanotype (dark) palettes of
+[jzhao.xyz](https://jzhao.xyz/): navy ink and vermilion on warm paper, and
+light blue and vermilion on prussian blue.
 
 | Role      | Light     | Dark      |
 | --------- | --------- | --------- |
-| light     | `#e2e2e2` | `#191919` |
-| lightgray | `#4e4e4e` | `#393639` |
-| gray      | `#4e4e4e` | `#e2e2e2` |
-| darkgray  | `#4e4e4e` | `#e2e2e2` |
-| dark      | `#4e4e4e` | `#ebebec` |
-| secondary | `#4e4e4e` | `#7c7c7c` |
-| tertiary  | `#c0ffe1` | `#c0ffe1` |
+| light     | `#f5eedd` | `#06182f` |
+| lightgray | `#e3d9c0` | `#122845` |
+| gray      | `#9a8e76` | `#7191b8` |
+| darkgray  | `#2d4673` | `#caddf4` |
+| dark      | `#16294e` | `#eef4fc` |
+| secondary | `#284d78` | `#8fb9de` |
+| tertiary  | `#c8482b` | `#e0552f` |
 
-Light mode is deliberately flat: every text tone is the same `#4e4e4e` against
-a `#e2e2e2` ground, with the mint `#c0ffe1` reserved for link hovers and
-selection.
+Vermilion (`tertiary`) is the accent for hovers, callout borders and
+selection. Callout backgrounds use the faint vermilion `highlight` wash.
 
 Type is Helvetica Neue throughout, matching the other course vaults and the
 personal site. It is a system face rather than a webfont, so `fontOrigin` is
