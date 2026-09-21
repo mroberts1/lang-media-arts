@@ -17,8 +17,9 @@ Image: [*Sirāt*](https://letterboxd.com/film/sirat-2025/) (Óliver Laxe, 2025)
 > Fall 2026
 > 
 > Mon + Wed 6-7:45 p.m. | Walker 202\
-> Office hrs: Thurs 2-3 p.m.
+> Office hrs: Thurs 2-3 p.m.\
 > Office: Ansin\
+> [YouTube playlist](https://youtube.com/playlist?list=PLGO1GJ9UcgMQ&si=ck57x3R3CqF7UCA0)\
 > [<i class="fa-solid fa-envelope" role="img" aria-label="Email"></i>](mailto:martin_roberts@emerson.edu) \| [<i class="fa-brands fa-mastodon" role="img" aria-label="Mastodon"></i>](https://merveilles.town/@dokoissho) \| [<i class="fa-brands fa-github" role="img" aria-label="GitHub"></i>](https://github.com/mroberts1/) \| [<i class="fa-brands fa-twitter" role="img" aria-label="Twitter"></i>](https://twitter.com/mroberts_vma)
 
 
