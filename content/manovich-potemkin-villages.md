@@ -4,7 +4,7 @@ author: Lev Manovich
 year: 1995
 ---
 
-Lev Manovich (1995). [PDF](pdf/manovich-potemkin-villages.pdf)
+[Lev Manovich](https://manovich.net/), "[To Lie and to Act: Potemkin's Villages, Cinema and Telepresence](https://manovich.net/index.php/projects/to-lie-and-to-act-potemkin-s-villages-cinema-and-telepresence)" (1995). 
 
 In an opening sequence from the movie "Titanic" (James Cameron, 1997), we see an operator sitting at controls. The operator is wearing a head-mounted display. The display allows him to see an image transmitted from a remote location, thus making it possible to remotely control another vehicle, exploring the insides of the Titanic lying on the bottom of the ocean. In short, the operator becomes "telepresent".
 
