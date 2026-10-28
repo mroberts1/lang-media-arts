@@ -1,5 +1,5 @@
 ---
-title: "To Lie and to Act: Potemkin's Villages, Cinema and Telepresence"
+title: Potemkin Villages
 author: Lev Manovich
 year: 1995
 ---

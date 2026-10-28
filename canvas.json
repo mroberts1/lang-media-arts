@@ -5,6 +5,11 @@
   "draft_title": "Syllabus (draft from vault)",
   "cover_width": 640,
   "cover_height": 360,
-  "pages": [],
+  "pages": [
+    {
+      "source": "manovich-potemkin-villages",
+      "title": "Potemkin Villages"
+    }
+  ],
   "home_title": "Home Page"
 }
