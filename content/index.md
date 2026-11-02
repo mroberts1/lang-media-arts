@@ -87,21 +87,13 @@ Assignments listed below should be completed in advance of the dates beside whic
 W, Sept. 2
 
 Introduction: Opening Sequence
-
-[Sensory Ethnography Lab](https://sel.fas.harvard.edu/) (Harvard University)
-
-Films: *Manakamana* (Stephanie Spray and Pacho Velez, 2013)\
-*Leviathan* (Lucien Castaing-Taylor and Véréna Paravel, 2012)
-
 ### Week 2
 
 M, Sept. 7: NO CLASS: Labor Day
 
 W, Sept. 9 
 
-**Soviet Montage**
-
-Clip: *Man With a Movie Camera* (Dziga Vertov, 1929). Soundtrack by The Cinematic Orchestra.
+Films discussed: [Kogonada](https://kogonada.com/archive) video essays
 
 - Ed Sikov, "[Editing: From Shot to Shot](pdf/sikov-montage.pdf)" (in *Film Studies: An Introduction*), ch. 4
 ### Week 3
@@ -115,166 +107,128 @@ M, Sept. 14
 - Karen Pearlman, "[After the Facts](https://intransition.openlibhums.org/article/id/11365/)"
 - "[Cut/Generate: Montage and AI](https://calenda.org/1217419?lang=en)" (conference held in Paris, 24-26 April 2025)
 
-Screenings: 
-
-- *Timecode* (Mike Figgis, 2000)
-- *Pretend* (Julie Talen, 2003)
+Films discussed: *Spectre* (Sam Mendes, 2015)
 
 W, Sept. 16: Add/Drop Deadline
 
-**The Movement-Image: Cars**
-
-Films: *Le Casse*\
-*Baby Driver*\
-*Taste of Cherry*, *Ten*\
-*One Battle After Another*\
-*Perfect Days*
-
-Sequence Analysis 1 (2-3 sequences per class)
+Sequence Analysis (Emma, Ahmad)
 
 ### Week 4
 
-**The Time Image: Transcendental Cinema**
+**Social Realism / Documentary
 
 M, Sept. 21
 
-- Cristina Quaranta, “[A Cinema of Boredom: Heidegger, Cinematic Time and Spectatorship](https://mroberts1.github.io/movements-world-cinema-fall24/pdf/quaranta.pdf)” (_Film-Philosophy_, 24.1 (2020): 1-21)
-
-Films: *L’Eclisse* (Michelangelo Antonioni, 1962) 
-*Blow Up* (Michelangelo Antonioni, 1966)
+Films discussed: *Sorry We Missed You* (Ken Loach, 2019); *The Thin Blue Line* (Errol Morris, 1988); *Chronicle of a Summer* (Jean Rouch/Edgar Morin, 1960)
 
 W, Sept. 23
 
-Sequence Analysis 2
+Sequence Analysis (Dive)
 
 ### Week 5
 
-**The Rhythm Image: Music Video**
+**Spatial Montage**
 
 M, Sept. 28
 
-- Steven Shaviro, "The Rhythm Image" (*The Rhythm Image*, ch. 1)
-
-Music videos by Chemical Brothers, Lorde, Michel Gondry
+Films/TV: *Timecode* (Mike Figgis, 2000); *Pretend* (Julie Talen, 2003); *D-Day* (Zentropa Films, 2000)
 
 W, Sept. 30
 
-Sequence Analysis 3
+Sequence Analysis (Shane, Sheng-Chin)  
 
 ### Week 6
 
-**Chaos: Intensified Continuity**
+**Multichannel Media**
 
 M, Oct. 5
 
-- David Bordwell, "Intensified Continuity: Visual Style in Contemporary American Film"
-- Steven Shaviro, "Post-Continuity: An Introduction" (in Denson and Leyda, eds., *Post-Cinema*)
+Films discussed: *Man With a Movie Camera* (Dziga Vertov, 1929; soundtrack by The Cinematic Orchestra)
+
+Music videos: *Born Free* (M.I.A./Romain Gavras); *Sugar Water* (Cibo Matto, Michel Gondry)
 
 W, Oct. 7
 
-Sequence Analysis 4
+Sequence Analysis (Isra, Juniper)
 
 ### Week 7
 
 M, Oct. 12: No class, Indigenous People's Day
 
-**Sihouettes: Animation**
-
-Tu, Oct. 13
-
-Screening: *The Adventures of Prince Achmed* (Lotte Reiniger, 1926). Live soundtrack by Dungen.
-
 W, Oct. 14 
 
-Sequence Analysis 5
+Films discussed: *Time* (BBC drama series)
 
 ### Week 8
 
-**Shadows and Light: Nocturnal Cinema**
+**Long Takes**
 
 M, Oct. 19
 
-MR, "[Dangerous Liaisons: Film Noir, Jazz, and the French New Wave](https://mroberts1.github.io/nocturnal-cinema/)"
+Films discussed: *Manufactured Landscapes* (Jennifer Baichwal, 2006) *La Vie sur Terre* (Abderrahmane Sissako, 1998); *Tout va bien* (Jean-Luc Godard, 1972); *Weekend* (Jean-Luc Godard, 1967)
 
 W, Oct. 21
 
-Sequence Analysis 6
+Screening: MFA Graduate Films (Bright Family Screening Room)
 
 ### Week 9
 
-**Phantasmagorias: Spectral Cinema**
+**From Neorealism to Art Cinema**
 
 M, Oct. 26
 
-Films:
-*Personal Shopper* (Olivier Assayas, 2016)\
-*Retratos Fantasmas* \[*Pictures of Ghosts*\] (Kleber Mendonça Filho, 2023)\
-*A Ghost Story* (David Lowery, 2017) 
+Films discussed: *Umberto D* (Vittorio De Sica, 1952); [*What Is Neorealism?*](https://kogonada.com/portfolio/what-is-neorealism) (kogonada); *La Notte* (Michelangelo Antonioni, 1961)
+
+David Bordwell, "[The Art Cinema as a Mode of Film Practice](pdf/bordwell-art-cinema.pdf)"
 
 W, Oct. 28
 
-Sequence Analysis 7
-
+Sequence analysis (Nana, Zack)  
+Potemkin Villages
 ### Week 10
 
-**Earth, Water, Fire, Air: Elemental Cinema**
+**Sound**
 
 M, Nov. 2
 
-- Tiago de Luca, "Nebulous Cinema" (*Studies in World Cinema* 23 (2023): 242-64)
-
-Films: *The Clouds of Sils-Maria* (Olivier Assayas, 2014)\
-*Vapour* (Apichatpong Weerasethakul, 2015)
+Films discussed: *Once Upon a Time in The West* (Sergio Leone, 1968); *Playtime* (Jacques Tati, 1967)
 
 W, Nov. 4
 
-Sequence Analysis 8
+Sequence Analysis (Jenna, Heather, Ariana)
 
 ### Week 11
 
-**Stray Dogs: Animals on Film**
+**Slow Cinema**
 
 M, Nov. 09:
 
-MR, "[Entangled Lives: Uncanny Animals in Cosmopolitical Documentary](https://mroberts1.github.io/entangled-lives/)"
-
-Films: *Stray*, *Space Dogs*
-
 T, Nov 10: 
-
-Sequence Analysis 9
 
 W, Nov. 11: NO CLASS: Veterans' Day
 
 ### Week 12
 
-**You Only Look Once: Algorithmic Aesthetics**
+**Third Cinema**
 
 M, Nov. 16
 
-MR, "[Moving Targets: Object Detection and Algorithmic Aesthetics](https://mroberts1.github.io/moving-targets/)"
-
-Film: *Chien 51*
-
 W, Nov. 18
-
-Sequence Analysis 10
 
 F, Nov. 20: WP/WF deadline
 
 ### Week 13
 
-**The Sense of an Ending: Doomscreening**
+**Dogma '95**
 
 M, Nov. 23
-
-*Bugonia* (Yorgos Lanthimos, 2025)
 
 W, Nov. 25: No class, Thanksgiving Break
 
 ### Week 14
 
 M, Nov. 30: Alt-Soundtrack Projects
+
 W, Dec. 2: Alt-Soundtracks Projects
 
 ### Week 15
