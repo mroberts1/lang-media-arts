@@ -199,7 +199,7 @@ Sequence Analysis (Jenna, Heather, Ariana)
 
 ### Week 11
 
-**Slow Cinema**
+**The Return of Realism: Slow Cinema**
 
 M, Nov. 09:
 
@@ -219,7 +219,7 @@ F, Nov. 20: WP/WF deadline
 
 ### Week 13
 
-**Dogma '95**
+**Pure Cinema: Dogma '95**
 
 M, Nov. 23
 
