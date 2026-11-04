@@ -232,7 +232,7 @@ F, Nov. 20: WP/WF deadline
 
 **Cinematic Worlds**
 
-- Holly Willis, "[Virtual Reality and the Networked Self](pdf/willis-vr)"
+- Holly Willis, "[Virtual Reality and the Networked Self](pdf/willis-vr.pdf)"
 
 M, Nov. 23
 
