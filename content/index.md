@@ -195,23 +195,34 @@ Films discussed: *Once Upon a Time in The West* (Sergio Leone, 1968); *Playtime*
 
 W, Nov. 4
 
-Sequence Analysis (Jenna, Heather, Ariana)
+Sequence Analysis (Jenna, Heather)
+
+Film: *Don't Look Now* (Nicolas Roeg, 1973) (opening)
 
 ### Week 11
 
-**The Return of Realism: Slow Cinema**
+**Color**
 
 M, Nov. 09:
 
+- Richard Misek, “[Film Color](pdf/misek-film-color.pdf)” (in _Chromatic Cinema: A History of Screen Color_ (Chichester: Wiley-Blackwell, 2010), ch. 1)
+- Maria Helena Braga e Vaz da Costa, “[Color in Films: A Critical Overview](pdf/color-in-films.pdf)”
+
+In-class: [Color Motifs in _Black Narcissus_](https://www.criterionchannel.com/color-motifs-in-black-narcissus) (Kristin Thompson, 2018)
+
 T, Nov 10: 
+
+Sequence Analysis (Ariana)
 
 W, Nov. 11: NO CLASS: Veterans' Day
 
 ### Week 12
 
-**Third Cinema**
+**POV**
 
 M, Nov. 16
+
+- Alex Galloway, "Origins of the First-Person Shooter"
 
 W, Nov. 18
 
@@ -219,13 +230,15 @@ F, Nov. 20: WP/WF deadline
 
 ### Week 13
 
-**Pure Cinema: Dogma '95**
+**Cinematic Worlds**
+
+- Holly Willis, "[Virtual Reality and the Networked Self](pdf/willis-vr)"
 
 M, Nov. 23
 
 W, Nov. 25: No class, Thanksgiving Break
 
-### Week 14
+### Week 14 
 
 M, Nov. 30: Alt-Soundtrack Projects
 
