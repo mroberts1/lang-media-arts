@@ -207,22 +207,27 @@ M, Nov. 09:
 
 - Richard Misek, “[Film Color](pdf/misek-film-color.pdf)” (in _Chromatic Cinema: A History of Screen Color_ (Chichester: Wiley-Blackwell, 2010), ch. 1)
 - Maria Helena Braga e Vaz da Costa, “[Color in Films: A Critical Overview](pdf/color-in-films.pdf)”
+- Justin Remes, "[Remembrance of Films Past: Joseph Cornell's *Rose Hobart* (A Work of Found Scholarship)](pdf/remes-rose-hobart.pdf)" (*Found Footage Magazine*, #6 (March 2020)
+- [Timeline of Historical Colors in Photography and Film](https://filmcolors.org/)
+- [Scan2Screen](https://scan2screen.com/) (digitized color film)
 
-In-class: [Color Motifs in _Black Narcissus_](https://www.criterionchannel.com/color-motifs-in-black-narcissus) (Kristin Thompson, 2018)
+Films: *The Serpentine Dance* (Lumière Brothers, 1898);  *A Trip To The Moon* (Georges Méliès, 1902); *The Adventures of Prince Achmed* (Lotte Reiniger, 1926); [*Rose Hobart*](https://www.filmpreservation.org/preserved-films/screening-room/rose-hobart-1936) (Joseph Cornell, 1936)
 
 T, Nov 10: 
 
 Sequence Analysis (Ariana)
 
+Films: *The Women* (George Cukor, 1939); [Color Motifs in _Black Narcissus_](https://www.criterionchannel.com/color-motifs-in-black-narcissus) (Kristin Thompson, 2018); *Don't Look Now* (Nicolas Roeg, 1973)
+
 W, Nov. 11: NO CLASS: Veterans' Day
 
 ### Week 12
 
-**POV**
+**Found Footage**
 
 M, Nov. 16
 
-- Alex Galloway, "Origins of the First-Person Shooter"
+- Reading TBA
 
 W, Nov. 18
 
