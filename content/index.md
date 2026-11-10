@@ -220,9 +220,10 @@ Sequence Analysis (Ariana)
 - Peter Wollen, "[BLUE](https://newleftreview.org/issues/ii6/articles/peter-wollen-blue.pdf)" (_New Left Review_, 6 (November-December 2000)
 - [Yves Klein](https://en.wikipedia.org/wiki/Yves_Klein) (Wikipedia)
 
-Films: [Color Motifs in _Black Narcissus_](https://www.criterionchannel.com/color-motifs-in-black-narcissus) (Kristin Thompson, 2018); [_Rose Hobart_](https://www.filmpreservation.org/preserved-films/screening-room/rose-hobart-1936) (Joseph Cornell, 1936); [_Blue](https://youtu.be/w-hmuUAmFHQ) (Derek Jarman, 1993)
+Films: [Color Motifs in _Black Narcissus_](https://www.criterionchannel.com/color-motifs-in-black-narcissus) (Kristin Thompson, 2018); [_Rose Hobart_](https://www.filmpreservation.org/preserved-films/screening-room/rose-hobart-1936) (Joseph Cornell, 1936); [_Blue_](https://youtu.be/w-hmuUAmFHQ) (Derek Jarman, 1993)
 
 [![](img/blue.jpg)](https://youtu.be/w-hmuUAmFHQ)
+
 W, Nov. 11: NO CLASS: Veterans' Day
 
 ### Week 12
