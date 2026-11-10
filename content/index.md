@@ -205,19 +205,24 @@ Film: *Don't Look Now* (Nicolas Roeg, 1973) (opening)
 
 M, Nov. 09:
 
-- Richard Misek, “[Film Color](pdf/misek-film-color.pdf)” (in _Chromatic Cinema: A History of Screen Color_ (Chichester: Wiley-Blackwell, 2010), ch. 1)
-- Maria Helena Braga e Vaz da Costa, “[Color in Films: A Critical Overview](pdf/color-in-films.pdf)”
-- Justin Remes, "[Remembrance of Films Past: Joseph Cornell's *Rose Hobart* (A Work of Found Scholarship)](pdf/remes-rose-hobart.pdf)" (*Found Footage Magazine*, #6 (March 2020)
+- Richard Misek, “[Film Color](https://canvas.emerson.edu/courses/2197573/files/199355723?location=course_syllabus_2197573)” (in _Chromatic Cinema: A History of Screen Color_ (Chichester: Wiley-Blackwell, 2010), ch. 1)
+- Maria Helena Braga e Vaz da Costa, “[Color in Films: A Critical Overview](https://canvas.emerson.edu/courses/2197573/files/199355722?location=course_syllabus_2197573)”
+- Justin Remes, “[Remembrance of Films Past: Joseph Cornell’s _Rose Hobart_ (A Work of Found Scholarship)](https://canvas.emerson.edu/courses/2197573/files/199555982?location=course_syllabus_2197573)” (_Found Footage Magazine_, #6 (March 2020)
 - [Timeline of Historical Colors in Photography and Film](https://filmcolors.org/)
 - [Scan2Screen](https://scan2screen.com/) (digitized color film)
 
-Films: *The Serpentine Dance* (Lumière Brothers, 1898);  *A Trip To The Moon* (Georges Méliès, 1902); *The Adventures of Prince Achmed* (Lotte Reiniger, 1926); [*Rose Hobart*](https://www.filmpreservation.org/preserved-films/screening-room/rose-hobart-1936) (Joseph Cornell, 1936)
+Films: _The Serpentine Dance_ (Lumière Brothers, 1898); _A Trip To The Moon_ (Georges Méliès, 1902); _The Adventures of Prince Achmed_ (Lotte Reiniger, 1926); _The Women_ (George Cukor, 1939)
 
-T, Nov 10: 
+T, Nov 10:
 
 Sequence Analysis (Ariana)
 
-Films: *The Women* (George Cukor, 1939); [Color Motifs in _Black Narcissus_](https://www.criterionchannel.com/color-motifs-in-black-narcissus) (Kristin Thompson, 2018); *Don't Look Now* (Nicolas Roeg, 1973)
+- Peter Wollen, "[BLUE](https://newleftreview.org/issues/ii6/articles/peter-wollen-blue.pdf)" (_New Left Review_, 6 (November-December 2000)
+- [Yves Klein](https://en.wikipedia.org/wiki/Yves_Klein) (Wikipedia)
+
+Films: [Color Motifs in _Black Narcissus_](https://www.criterionchannel.com/color-motifs-in-black-narcissus) (Kristin Thompson, 2018); [_Rose Hobart_](https://www.filmpreservation.org/preserved-films/screening-room/rose-hobart-1936) (Joseph Cornell, 1936); [_Blue](https://youtu.be/w-hmuUAmFHQ) (Derek Jarman, 1993)
+
+![](https://youtu.be/w-hmuUAmFHQ)
 
 W, Nov. 11: NO CLASS: Veterans' Day
 
