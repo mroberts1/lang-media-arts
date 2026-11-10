@@ -655,6 +655,18 @@ article iframe[src*="player.vimeo.com"] {
 
 // Print. Syllabi get handed out as PDFs, printed from the built page so they
 // keep the site's fonts, callouts and colours. Generate with ./script/pdf.
+// quartz-image-zoom opens a lightbox on any img.lightbox-image click. For an
+// image wrapped in a link, let the click fall through to the link instead: with
+// pointer-events off the click target is the <a>, which the zoom handler ignores.
+a > img.lightbox-image {
+  pointer-events: none;
+}
+
+a:has(> img.lightbox-image) {
+  display: inline-block;
+  cursor: pointer;
+}
+
 @media print {
   @page {
     size: letter;

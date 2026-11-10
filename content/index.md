@@ -222,8 +222,7 @@ Sequence Analysis (Ariana)
 
 Films: [Color Motifs in _Black Narcissus_](https://www.criterionchannel.com/color-motifs-in-black-narcissus) (Kristin Thompson, 2018); [_Rose Hobart_](https://www.filmpreservation.org/preserved-films/screening-room/rose-hobart-1936) (Joseph Cornell, 1936); [_Blue](https://youtu.be/w-hmuUAmFHQ) (Derek Jarman, 1993)
 
-![](https://youtu.be/w-hmuUAmFHQ)
-
+[![](img/blue.jpg)](https://youtu.be/w-hmuUAmFHQ)
 W, Nov. 11: NO CLASS: Veterans' Day
 
 ### Week 12
