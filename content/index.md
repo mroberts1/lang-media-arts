@@ -217,12 +217,7 @@ T, Nov 10:
 
 Sequence Analysis (Ariana)
 
-- Peter Wollen, "[BLUE](https://newleftreview.org/issues/ii6/articles/peter-wollen-blue.pdf)" (_New Left Review_, 6 (November-December 2000)
-- [Yves Klein](https://en.wikipedia.org/wiki/Yves_Klein) (Wikipedia)
-
 Films: [Color Motifs in _Black Narcissus_](https://www.criterionchannel.com/color-motifs-in-black-narcissus) (Kristin Thompson, 2018); [_Rose Hobart_](https://www.filmpreservation.org/preserved-films/screening-room/rose-hobart-1936) (Joseph Cornell, 1936); [_Blue_](https://youtu.be/w-hmuUAmFHQ) (Derek Jarman, 1993)
-
-[![](img/blue.jpg)](https://youtu.be/w-hmuUAmFHQ)
 
 W, Nov. 11: NO CLASS: Veterans' Day
 
@@ -232,7 +227,8 @@ W, Nov. 11: NO CLASS: Veterans' Day
 
 M, Nov. 16
 
-- Reading TBA
+- Peter Wollen, "[BLUE](https://newleftreview.org/issues/ii6/articles/peter-wollen-blue.pdf)" (_New Left Review_, 6 (November-December 2000)
+- [Yves Klein](https://en.wikipedia.org/wiki/Yves_Klein) (Wikipedia)
 
 W, Nov. 18
 
@@ -242,25 +238,33 @@ F, Nov. 20: WP/WF deadline
 
 **Cinematic Worlds**
 
-- Holly Willis, "[Virtual Reality and the Networked Self](pdf/willis-vr.pdf)"
-
 M, Nov. 23
+
+- Holly Willis, "[Virtual Reality and the Networked Self](pdf/willis-vr.pdf)"
 
 W, Nov. 25: No class, Thanksgiving Break
 
 ### Week 14 
 
-M, Nov. 30: Alt-Soundtrack Projects
+M, Nov. 30: 
 
-W, Dec. 2: Alt-Soundtracks Projects
+Topic TBS
+
+W, Dec. 2: 
 
 ### Week 15
 
-M, Dec. 7: Final Projects
+M, Dec. 7: Alt-Soundtrack Projects
 
-W, Dec. 9: Final Projects
+W, Dec. 9: Alt-Soundtrack Projects
+
+### Week 16
+
+M, Dec. 14: Final Projects
+
+W, Dec. 16: Final Projects
 	
-F, Dec. 11: Last Day of Classes
+Thur Dec. 17: Last Day of Classes
 
 ## Policies and guidelines
 
