@@ -248,7 +248,7 @@ W, Nov. 25: No class, Thanksgiving Break
 
 M, Nov. 30: 
 
-Topic TBS
+Topic TBA
 
 W, Dec. 2: 
 
